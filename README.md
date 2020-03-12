@@ -10,5 +10,5 @@ Backend Repository - https://github.com/Twinday/Restaurant-server.git
 Frontend Repository - https://github.com/Twinday/Restaurant-client.git
 
 Команда:
-Злобин Максим - РП, РР (руководитель проекта и разработки)
-Пожидаев Антон - бизнес аналитик
+1) Злобин Максим - РП, РР (руководитель проекта и разработки);
+2) Пожидаев Антон - бизнес аналитик.
