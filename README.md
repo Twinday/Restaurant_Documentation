@@ -11,7 +11,9 @@ Frontend Repository - https://github.com/Twinday/Restaurant-client.git
 
 Видение - файл videnie в репозитории
 
-Курсовой проект - файл Sistema_restorana в репозитории
+Курсовой проект - файл Sistema_restorana в репозитории (https://github.com/Twinday/Restaurant_Documentation/blob/master/Sistema_restorana.pdf)
+
+ТЗ - https://github.com/Twinday/Restaurant_Documentation/blob/master/TZ.pdf
 
 Команда:
 1) Злобин Максим - РП, РР (руководитель проекта и разработки);
