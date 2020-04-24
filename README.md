@@ -16,8 +16,8 @@ Frontend Repository - https://github.com/Twinday/Restaurant-client.git
 ТЗ - https://github.com/Twinday/Restaurant_Documentation/blob/master/TZ.pdf
 
 Команда:
-1) Злобин Максим - РП, РР (руководитель проекта и разработки);
-2) Пожидаев Антон - бизнес аналитик.
+1) Злобин Максим - РП, РР (руководитель проекта и разработки), back-end, front-end;
+2) Пожидаев Антон - бизнес аналитик, front-end.
 
 
 Видение «системы управления рестораном»
