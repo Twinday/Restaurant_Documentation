@@ -1,6 +1,8 @@
 # Restaurant_Documentation
 Репозиторий для документации системы управления рестораном
 ***
+[ТЗ](https://github.com/Twinday/Restaurant_Documentation/blob/master/TZ.pdf)
+
 Доска на [Trello](https://trello.com/b/ltGkEWfY/crm-restaurant)
 
 Доска на [Miro](https://miro.com/app/board/o9J_kumeU8g=/)
@@ -13,10 +15,14 @@ Frontend Repository - [front-end](https://github.com/Twinday/Restaurant-client.g
 
 [Отчет](https://github.com/Twinday/Restaurant_Documentation/blob/master/report.pdf) по ролям внутри команды
 
-[ТЗ](https://github.com/Twinday/Restaurant_Documentation/blob/master/TZ.pdf)
+[Видеозащита проекта (наше выступление)](https://youtu.be/Q2pLP9lz_98)
+
+[Демострация работы нашей системы](https://youtu.be/OdGGGFD_FXo)
+
+Также видео (демострация работы и выступление) находятся [здесь](https://github.com/Twinday/Restaurant_Documentation/tree/master/videos).
 ***
 ## Команда:
-1) Злобин Максим - РП, РР (руководитель проекта и разработки), back-end, front-end;
+1) Злобин Максим - РП, РР (руководитель проекта и разработки), back-end, front-end [Evil-Max1@ya.ru];
 2) Пожидаев Антон - бизнес аналитик, front-end, тестирование.
 ***
 ### Видение «системы управления рестораном».
